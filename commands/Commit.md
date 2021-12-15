@@ -1,4 +1,4 @@
-#git commit
+# git commit
 
 The command `git commit` will take all tracked changes (items added with [git add](./ADD.md)) and package them up in what is called a commit.
 
@@ -20,4 +20,5 @@ Then when viewing the history of a git repository, you can pinpoint where the re
 - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 
 ---
-[Back to home](./README.md)
+
+[Back to home](../README.md)
